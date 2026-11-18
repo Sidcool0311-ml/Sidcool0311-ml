@@ -97,7 +97,7 @@ I'm always interested in connecting with developers, learning new technologies, 
 
 📧 **Email:** sidcool0311@gmail.com
 
-💻 **GitHub:** https://github.com/YOUR_USERNAME
+💻 **GitHub:** https://github.com/Sidcool0311-ml
 
 ---
 
@@ -109,12 +109,3 @@ I'm always interested in connecting with developers, learning new technologies, 
 
 </div>
 
----
-
-<div align="center">
-
-### "Building today. Innovating tomorrow."
-
-⭐ Thanks for visiting my profile!
-
-</div>
