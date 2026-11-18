@@ -77,19 +77,8 @@ Hi! I'm **Siddhant Sharma**, an aspiring Machine Learning Engineer passionate ab
 - [ ] Improve DSA and problem-solving in C++.
 - [ ] Explore real-world applications of Artificial Intelligence.
 
----
 
-## 📈 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
